@@ -1,0 +1,379 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+            }
+        .header-1 {
+            height: 50px;
+            background: #3c8dbc;
+        }
+        .header-1 #tou {
+            margin-left: 22px;
+        }
+        
+        .header-1 ul li {
+            list-style: none;
+            float: left;
+            margin: 10px 0;
+            line-height: 25px;
+        }
+        
+        .header-1 #tou .no-boder a{
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+            padding: 0 10px;
+        }
+        .header-1 .menu-left {
+            float: left;
+        }
+        .header-1 .menu-right {
+            float: right;
+            padding-right: 29px;
+        }
+        .header-1 ul li a .user-image {
+            margin-top: 5px;
+            margin-left: 31px;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+        }
+  
+        /* 首页nav */
+        .breadmenu-1{
+            height:40px;
+            border-bottom:2px solid black;
+            background: #333;
+            line-height:40px;
+        }
+        .breadmenu-1  a .left1{
+     
+            height:15px;
+            width: 15px;
+        }
+        .breadmenu-1 .size-1{
+            
+            text-decoration: none;
+            color: white;
+            font-size: 14px;
+            margin-left: 20px;
+        
+        }
+        .breadmenu-1 .bread-nav{
+            float: right;
+        }
+        .breadmenu-1 .bread-nav a .right1{
+          
+            padding:0 10px 0 10px;
+            border-left: 1px solid #777777;
+            border-right:1px solid #777777;
+            height: 14px;
+            width: 38px;
+            
+        }
+        .breadmenu-1 .bread-nav a .up-1{
+            width: 15px;
+            height:15px;
+           /* margin-right: 10px; */
+           
+            
+            border-right:1px solid #777777;
+        }
+        .breadmenu-1 .bread-nav .num{
+    
+            color: #ffffff;
+            font-size: 14px;
+            padding:0 10px 0 10px;
+        }
+        .breadmenu-1 .bread-nav .quanp{
+     
+            height:20px;
+            width: 20px;
+            margin: 0 28px 0 10px;
+        
+        }
+        
+        /* .trigger-hui{
+            position: fixed;
+            top:16px;
+        } */
+        
+        .Content-height{
+            height:506px;
+            overflow-y:scroll;
+        }
+        
+        /*  <!-- Dashboard  --> */
+
+        .Dashb{
+            border-bottom: 2px solid #00a65a;
+            height:40px;
+        }
+        
+        /*  */
+        .Dashb h1{
+            font-size: 24px;
+            color: #333333;
+            display: inline;
+            margin-left: 20px;
+        }
+        .Dashb small{
+            font-size: 15px;
+            color: #777777;
+            padding-left: 10px;
+            /* margin-left: 730px; */
+        }
+        .Dashb .xiao-pic{
+            float: right;
+            line-height: 40px;
+        }
+        .Dashb .koz{
+            width: 12px;
+            height: 12px;
+        }
+         .Dashb .home{
+            font-size: 12px;
+            color: #444444;
+            padding: 0 8px 0 8px;
+         }
+         .Dashb .jiantou{
+            width: 11px;
+            height: 7px;
+         }
+
+         .Dashb .Das{
+            font-size: 12px;
+            color: #444444;
+            padding: 0 30px 0 8px;
+         }
+        
+        
+        
+        
+        
+        
+        /* 模块 */
+        
+        div .mokuai1{
+         
+            height: 90px;
+            width: 250px;
+            border-bottom: 2px solid #f4f4f4;
+            border-right: 1px solid #f4f4f4;
+            border-radius: 3%;
+            float: left;
+            margin: 10px 15px 0 10px;
+        }
+        div .mokuai1 div{
+            width: 90px;
+            height: 90px;
+            background: #f39c12;
+            float: left;
+        }
+        
+        div .mokuai1 div img{
+            margin: 22px 0 0 22px;
+            width: 45px;
+            height: 45px;
+        }
+        
+        
+        
+        div .mokuai2{
+            height: 90px;
+            width: 250px;
+            border-bottom: 2px solid #f4f4f4;
+            border-right: 1px solid #f4f4f4;
+            border-radius: 3%;
+            float: left;
+            margin: 10px 15px 0 10px;
+            
+        }
+
+        div .mokuai2 div{
+            width: 90px;
+            height: 90px;
+            background: #00cfe0;
+            float: left;
+        }
+       
+        
+        div .mokuai2 div img{
+            margin: 22px 0 0 22px;
+            width: 45px;
+            height: 45px;
+        }
+        
+        
+        
+        div .mokuai3{
+            height: 90px;
+            width: 250px;
+            border-bottom: 2px solid #f4f4f4;
+            border-right: 1px solid #f4f4f4;
+            border-radius: 3%;
+            float: left;
+            margin: 10px 15px 0 10px;
+        }
+        div .mokuai3 div{
+            width: 90px;
+            height: 90px;
+            background: #00a65a;
+            float: left;
+        }
+        
+        
+        div .mokuai3 div img{
+            margin: 22px 0 0 22px;
+            width: 45px;
+            height: 45px;
+        }
+        
+        
+        div .mokuai4{
+            height: 90px;
+            width: 250px;
+            border-bottom: 2px solid #f4f4f4;
+            border-right: 1px solid #f4f4f4;
+            border-radius: 3%;
+            float: left;
+            margin: 10px 15px 0 10px;
+        }
+
+        div .mokuai4 div{
+            width: 90px;
+            height: 90px;
+            background: #dd4b39;
+            float: left;
+        }
+        
+        div .mokuai4 b{
+            font-size: 15px;
+        }
+
+        div .mokuai4 div img{
+            margin: 22px 0 0 22px;
+            width: 45px;
+            height: 45px;
+        }
+
+        div .mokuai4 .span2{
+            font-size: 13px;
+            font-weight: bold
+        }
+
+        div .mokuai4 .span3{
+            font-size: 12px;
+            font-weight: bold
+        }
+        
+        
+        /* delu */
+        
+        .DL .box1{
+            margin: 112px 0 0 10px;
+            display: block;
+            width: 528.5px;
+            height: 42px;
+            border-bottom:1px solid #a3a2a2;
+            border-top:3px solid #a3a2a2;
+            border-right:1px solid #a3a2a2;
+            border-left:1px solid #a3a2a2;
+            border-radius: 10px;
+             
+        }
+        .DL .box1 h3{
+            padding: 10px;
+            font-size: 18px;
+            color: #444444;
+            line-height: 1;
+            font-family: Arial,Helvetica,sans-serif;
+        }
+        
+        
+        
+        
+        .DL .box2{
+            margin: -42px 10px 0 590px;
+            width: 528.5px;
+            height: 42px;
+            border-bottom:1px solid #a3a2a2;
+            border-top:3px solid #a3a2a2;
+            border-right:1px solid #a3a2a2;
+            border-left:1px solid #a3a2a2;
+            border-radius: 10px;
+             
+        }
+        .DL .box2 h3{
+            padding: 10px;
+            font-size: 18px;
+            color: #444444;
+            line-height: 1;
+            font-family: Arial,Helvetica,sans-serif;
+        }
+        
+        /* 表格 */
+        
+        div .table1{
+            margin: 10px 0 0 10px;
+            width: 530.5px;
+            border-collapse: collapse;
+            padding: 10px;
+            border: 1px solid black;
+        }
+        
+        .table1 tbody tr th,td{
+            padding: 7px;
+            color:#333333;
+            text-align: center;
+            font-size: 14px;
+        }
+        
+        
+        div .table2{
+            margin: -397px 0 0 590px;
+            width: 530.5px;
+            border-collapse: collapse;
+            padding: 10px;
+            border: 1px solid black;
+        }
+        
+        div .table2 tbody tr th,td{
+            padding: 7px;
+            color:#333333;
+            text-align: center;
+            font-size: 14px;
+        }
+        
+        
+        .jiao-foot{
+  
+            width: 1112px;
+            height: 40px;
+            /* border-top: 1px solid red; */
+            line-height: 48px;
+            height: 48px;
+            
+        }
+        .jiao-foot strong{
+            margin: 10px;
+            font-size: 14px;
+            color: #444444;
+        }
+        .jiao-foot a{
+            margin: 10px;
+            font-size: 14px;
+            color: #444444;
+            text-decoration: none;
+        }
+        .jiao-foot span{
+            margin: 10px;
+            font-size: 14px;
+            color: #444444;
+        }
+        .jiao-foot b{
+            margin: 10px;
+            font-size: 14px;
+            color: #444444;
+            margin-left: 564px;
+        }
